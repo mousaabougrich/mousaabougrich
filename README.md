@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousaabougrich&label=Profile%20views&color=0e75b6&style=flat" alt="mousaabougrich" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mousaabougrich" alt="mousaabougrich" /></a> </p>
-
 - 🔭 I’m currently working on [Bold Donation app](https://github.com/mousaabougrich/Blod-Donation-App)
 
 - 🌱 I’m currently learning **Devops Tools**
