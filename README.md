@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Devops Tools**
 
-- 👨‍💻 All of my projects are available at [(soon)]((soon))
+- 👨‍💻 All of my projects are available at (https://mousaabougrich.vercel.app/)
 
-- 📫 How to reach me **mos.ougf@gamil.com**
+- 📫 How to reach me **mos.ougf@gmail.com**
 
 - ⚡ Fun fact **I like code that scales**
 
