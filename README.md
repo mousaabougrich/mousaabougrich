@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousaabougrich&label=Profile%20views&color=0e75b6&style=flat" alt="mousaabougrich" /> </p>
 
-- 🔭 I’m currently working on [Bold Donation app](https://github.com/mousaabougrich/Blod-Donation-App)
+- 🔭 I’m currently working on [blood Donation app](https://github.com/mousaabougrich/Blod-Donation-App)
 
 - 🌱 I’m currently learning **Devops Tools**
 
